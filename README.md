@@ -7,6 +7,10 @@
 | Amit Saha | [Practical Go_ Building Scalable Network and Non-Network Applications-Wiley (2021)](https://github.com/irezaul/go-life/blob/main/books/Amit%20Saha%20-%20Practical%20Go_%20Building%20Scalable%20Network%20and%20Non-Network%20Applications-Wiley%20(2021).pdf) |
 | Barton Press | [Go for Beginners_ A Step-By-Step Guide to Learning the Game of Go-More Books LLC (2021)](https://github.com/irezaul/go-life/blob/main/books/Barton%20Press%20-%20Go%20for%20Beginners_%20A%20Step-By-Step%20Guide%20to%20Learning%20the%20Game%20of%20Go-More%20Books%20LLC%20(2021).pdf) |
 | Naren Yellavula | [Building RESTful Web services with Go](https://github.com/irezaul/go-life/blob/main/books/Building%20RESTful%20Web%20services%20with%20Go.pdf) |
+| Alex Ellis | [Everyday Go - The Fast Track for Golang](https://github.com/irezaul/go-life/blob/main/books/Everyday%20Go%20-%20The%20Fast%20Track%20for%20Golang%20by%20Alex%20Ellis.pdf) |
+| Jon Bodner | [Learning Go_ An Idiomatic Approach to Real-World Go Programming-O'Reilly Media (2021)](https://github.com/irezaul/go-life/blob/main/books/Jon%20Bodner%20-%20Learning%20Go_%20An%20Idiomatic%20Approach%20to%20Real-World%20Go%20Programming-O'Reilly%20Media%20(2021).pdf) |
+
+
 
  
   
