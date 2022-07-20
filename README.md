@@ -12,6 +12,8 @@
 | Matthew A. Titmus | [Cloud Native Go_ Building Reliable Services in Unreliable Environments-O'Reilly Media (2021)](https://github.com/irezaul/go-life/blob/main/books/Matthew%20A.%20Titmus%20-%20Cloud%20Native%20Go_%20Building%20Reliable%20Services%20in%20Unreliable%20Environments-O'Reilly%20Media%20(2021).pdf) |
 | Mihalis Tsoukalos | [Mastering Go_ Harness the power of Go to build professional utilities and concurrent servers and services, 3rd Edition-Packt Publishing (2021)](https://github.com/irezaul/go-life/blob/main/books/Mihalis%20Tsoukalos%20-%20Mastering%20Go_%20Harness%20the%20power%20of%20Go%20to%20build%20professional%20utilities%20and%20concurrent%20servers%20and%20services%2C%203rd%20Edition-Packt%20Publishing%20(2021).pdf) |
 | Travis Jeffery | [Distributed Services with Go_ Your Guide to Reliable, Scalable, and Maintainable Systems-Pragmatic Bookshelf (2021)](https://github.com/irezaul/go-life/blob/main/books/Travis%20Jeffery%20-%20Distributed%20Services%20with%20Go_%20Your%20Guide%20to%20Reliable%2C%20Scalable%2C%20and%20Maintainable%20Systems-Pragmatic%20Bookshelf%20(2021).pdf) |
+| Daniel Whitenack| [Machine Learning With Go](https://github.com/irezaul/go-life/blob/main/books/Machine%20Learning%20With%20Go.pdf) |
+
  
 
 
