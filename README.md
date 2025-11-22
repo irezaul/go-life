@@ -2,7 +2,7 @@
 
 | Writter | Description |
 | --- | --- |
-| Marek Pliš| [Essential Go - Clear explanations with playground-linked examples; from basics to advanced.](https://github.com/irezaul/go-life/blob/main/books/Essentials%20of%20Go%20Programming%201st%20Ed.pdf) |
+| Baiju Muthukadanwith|[Essentials of Go Programming First Edition playground-linked from basics to advanced.](https://github.com/irezaul/golife/blob/main/books/Essentials%20of%20Go%20Programming%201st%20Ed.pdf)|
 | 100 Go Mistakes and How to Avoid Them | 100 common errors with fixes; quick and practical. added soon |
 | Karl Seguin | [The Little Go Book](https://github.com/irezaul/go-life/blob/main/books/The%20Little%20Go%20Book.pdf) |
 | Adam Freeman | [The Complete Guide to Programming Reliable and Efficient Software Using Golang-Apress](https://github.com/irezaul/go-life/blob/main/books/Adam%20Freeman%20-%20Pro%20Go_%20The%20Complete%20Guide%20to%20Programming%20Reliable%20and%20Efficient%20Software%20Using%20Golang-Apress.pdf) |
