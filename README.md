@@ -2,6 +2,7 @@
 
 | Writter | Description |
 | --- | --- |
+| Astaxie| [Build Web Application with Golang](https://github.com/irezaul/go-life/blob/main/books/Go%20building%20web%20application.pdf)|
 | Baiju Muthukadanwith|[Essentials of Go Programming First Edition playground-linked from basics to advanced.](https://github.com/irezaul/golife/blob/main/books/Essentials%20of%20Go%20Programming%201st%20Ed.pdf)|
 | 100 Go Mistakes and How to Avoid Them | 100 common errors with fixes; quick and practical. added soon |
 | Karl Seguin | [The Little Go Book](https://github.com/irezaul/go-life/blob/main/books/The%20Little%20Go%20Book.pdf) |
